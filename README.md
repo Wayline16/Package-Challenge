@@ -57,4 +57,14 @@ release ready.
 Your solution is meant to be used as a cross platform library, NOT as a standalone application.
 Good luck with this assignment. If you have any questions, don’t hesitate to send us an email.
 ----------------------------------------------------------------------------------------------------------
+References
 
+wadepickett (n.d.). Tutorial: Create a web API with ASP.NET Core. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio.
+
+‌w3schools (2022). C# Tutorial (C Sharp). [online] www.w3schools.com. Available at: https://www.w3schools.com/cs/index.php.
+
+dotnet-bot (n.d.). CultureInfo.InvariantCulture Property (System.Globalization). [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.globalization.cultureinfo.invariantculture?view=net-7.0 [Accessed 4 Jul. 2023].
+
+dotnet-bot (n.d.). List Class (System.Collections.Generic). [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-7.0.
+
+‌ChatGPT (Cleaning up code and simplify problems)
